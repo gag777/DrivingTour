@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+body, html {
+	    text-align: center;
+	margin: 0;
+	height: 100%;
+	background-image: url("placeBackground.jpg"); /* Created by Asmaarzq - Freepik.com */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+h1{
+	text-align: center;
+	color: white;
+	background:black;
+	font-size: 50px;
+	margin-top: 70px;
+	letter-spacing: 3px;
+	font-family: "Verdana";
+	margin-left:10%;
+	margin-right:10%;
+}
+
+p {
+	text-align: center;  
+	letter-spacing: 3px;
+	font-family: "Verdana";
+	font-size: 18px;
+	color: white;
+}
+
+img {
+	border-radius: 50%;
+	width: 30%;
+	height: 30%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	font-family: "Verdana";
+	font-size: 18px;
+	color: white;
+	background:black;
+	letter-spacing: 3px;
+}
+
+.googleButton{
+	background-color: #f4511e;
+	color: #FFFFFF;
+	text-align: center;
+	border-radius: 12px;
+	font-size: 28px;
+	height: 80px;
+    width: 16%;
+    margin-top: 10%;
+    margin-left:42%; 
+    margin-right:42%; 
+}
+
+.googleButton:hover {
+	background-color: #FFFFFF;
+	color: #f4511e;
+
+}
